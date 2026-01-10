@@ -50,7 +50,8 @@ In a real-world application, this could lead to:
 - Treat all user input strictly as data  
 - Avoid constructing SQL queries via string concatenation
 ---
-## KEY LEARNING- Authentication logic is a common target for SQL Injection
+## KEY LEARNING
+- Authentication logic is a common target for SQL Injection
 - SQL comments (`--`) can be used to remove security checks
 - Login bypass does not require data extraction to be severe
 - Proper query parameterization completely prevents this attack.
