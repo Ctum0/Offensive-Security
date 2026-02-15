@@ -18,12 +18,19 @@ Offensive-Security/
 ```
 ### 🎯 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙵𝚘𝚌𝚞𝚜 𝙰𝚛𝚎𝚊𝚜
 
-    Foundational Mechanics: Deep-diving into network traffic analysis, data interception, and protocol manipulation.
-    Web Application Logic: Identifying and exploiting both server-side and client-side vulnerabilities.
-    Tactical Automation: Developing custom Python3 scripts to automate brute-forcing, and repetitive exploitation tasks.
+    Foundational Mechanics: Deep-diving into network traffic analysis, data
+    interception, and protocol manipulation.
+    Web Application Logic: Identifying and exploiting both server-side and
+    client-side vulnerabilities (Injection, Auth bypass, Logic flaws).
+    Tactical Automation: Developing custom Python3 scripts to automate
+    reconnaissance, brute-forcing, and repetitive exploitation tasks.
 
 ### ⚠️ 𝚁𝚞𝚕𝚎𝚜 𝙾𝚏 𝙴𝚗𝚐𝚊𝚐𝚎𝚖𝚎𝚗𝚝 (𝙳𝚒𝚜𝚌𝚕𝚊𝚒𝚖𝚎𝚛)
 
-    All scripts and documentation in this repository are strictly for educational purposes and authorized auditing only. 
-    I am building these tools and notes to understand vulnerabilities deeply in order to secure them. 
-    Do not deploy these assets against targets you do not own or lack explicit permission to test.
+    All scripts and documentation in this repository are strictly for
+    educational purposes and authorized auditing only. 
+    I am building these tools and notes to understand vulnerabilities 
+    deeply in order to secure them. 
+    Do not deploy these assets against targets you do not own or lack 
+    explicit permission to test.
+
