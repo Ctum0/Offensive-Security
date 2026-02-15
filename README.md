@@ -12,9 +12,9 @@ This repository operates as a monolithic knowledge base and script arsenal, stru
 
 ```text
 Offensive-Security/
-├── 01_Foundations/           # Core networking, HTTP/S protocols, and Burp Suite architecture
-├── 02_Web_Exploitation/      # OWASP Top 10 vectors, PortSwigger writeups, and Python exploits
-└── README.md                 # System overview
+├── 01_Foundations/          # Core networking, HTTP/S protocols, and Burp Suite architecture
+├── 02_Web_Exploitation/     # OWASP Top 10 vectors, PortSwigger writeups, and Python exploits
+└── README.md                # System overview
 ```
 ### 🎯 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙵𝚘𝚌𝚞𝚜 𝙰𝚛𝚎𝚊𝚜
 
@@ -32,6 +32,7 @@ Offensive-Security/
     educational purposes and authorized auditing only. I am building these tools and notes to 
     understand vulnerabilities deeply in order to secure them. Do not deploy these assets against 
     targets you do not own or lack explicit permission to test.
+
 
 
 
