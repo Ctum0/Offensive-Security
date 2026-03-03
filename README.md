@@ -6,7 +6,7 @@
 
 ---
 
-### 📡 𝚂𝚢𝚜𝚝𝚎𝚖 𝙾𝚟𝚎𝚛𝚟𝚒𝚎w
+### 📡 𝚂𝚢𝚜𝚝𝚎𝚖 𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠
 
 This repository serves as a centralized intelligence hub for the systematic deconstruction, auditing, and fortification of digital environments. It documents a continuous transition from foundational theory to live-fire execution, mapping the lifecycle of security operations across diverse attack surfaces.
 
@@ -31,4 +31,5 @@ The primary objective of this arsenal is to bridge the gap between manual vulner
 ### ⚠️ 𝚁𝚞𝚕𝚎𝚜 𝙾𝚏 𝙴𝚗𝚐𝚊𝚐𝚎𝚖𝚎𝚗𝚝
 
 All contents are strictly for educational purposes and authorized auditing. This repository exists to understand vulnerabilities deeply in order to effectively secure modern digital infrastructure.
+
 
