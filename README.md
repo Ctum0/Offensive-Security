@@ -10,7 +10,7 @@
 
 This repository serves as a centralized intelligence hub for the systematic deconstruction, auditing, and fortification of digital environments. It documents a continuous transition from foundational theory to live-fire execution, mapping the lifecycle of security operations across diverse attack surfaces.
 
-The primary objective of this arsenal is to bridge the gap between manual vulnerability research and scalable automation. By documenting complex exploit chains, logic flaws, and defensive countermeasures, this repository tracks the technical evolution required to operate at the 1% level of the industry.
+The primary objective of this arsenal is to bridge the gap between manual vulnerability research and scalable automation. 
 
 ### 🛠️ 𝙲𝚘𝚛𝚎  𝙼𝚎𝚝𝚑𝚘𝚍𝚘𝚕𝚘𝚐𝚢
 
@@ -32,6 +32,3 @@ The primary objective of this arsenal is to bridge the gap between manual vulner
 
 All contents are strictly for educational purposes and authorized auditing. This repository exists to understand vulnerabilities deeply in order to effectively secure modern digital infrastructure.
 
-<p align="center">
-  <i>"You get what you fight for, not what you wish for."</i>
-</p>
