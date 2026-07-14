@@ -1,35 +1,54 @@
-<h1 align="center">⚡ 𝙾𝚏𝚏𝚎𝚗𝚜𝚒𝚟𝚎 𝚂𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝙰𝚛𝚜𝚎𝚗𝚊𝚕</h1>
+<h1 align="center">⚡ Offensive Security</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Initializing+Security+Arsenal...;Status:+Active+Vulnerability+Research;Executing+Operational+Roadmap;Objective:+Continuous+Security+Mastery;Protocol:+Discipline+Over+Motivation." alt="Live Terminal Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Documenting+Hands-On+Security+Research;VulnHub+%7C+PortSwigger+%7C+Hack+The+Box;Writeups+%7C+Scripts+%7C+Methodology;Learning+Through+Practice;Protocol:+Discipline+Over+Motivation." alt="Typing SVG" />
 </div>
 
 ---
 
-### 📡 𝚂𝚢𝚜𝚝𝚎𝚖 𝙾𝚟𝚎𝚛𝚟𝚒𝚎𝚠
+## 📖 Overview
 
-This repository serves as a centralized intelligence hub for the systematic deconstruction, auditing, and fortification of digital environments. It documents a continuous transition from foundational theory to live-fire execution, mapping the lifecycle of security operations across diverse attack surfaces.
+Welcome to my Offensive Security repository.
 
-The primary objective of this arsenal is to bridge the gap between manual vulnerability research and scalable automation. 
+This repository documents my practical cybersecurity learning journey through hands-on labs, vulnerable machines, web application testing, and custom tooling. It serves as a centralized collection of technical write-ups, methodologies, notes, and scripts developed while studying offensive security.
 
-### 🛠️ 𝙲𝚘𝚛𝚎  𝙼𝚎𝚝𝚑𝚘𝚍𝚘𝚕𝚘𝚐𝚢
-
-- **Vulnerability Research:** Deep-dive analysis into system logic to identify non-obvious security failures.
-- **Tactical Automation:** Engineering custom Python-based tooling to accelerate reconnaissance and exploitation.
-- **Architectural Auditing:** Evaluating both offensive vectors and defensive hardening across web, API, and network infrastructures.
-
-### 📜 𝚅𝚎𝚛𝚒𝚏𝚒𝚎𝚍 𝙰𝚜𝚜𝚎𝚝𝚜
-
-<div align="left">
-  <a href="https://badges.parchment.com/public/assertions/llApMASaSzS_RxCK9ip4EQ">
-    <img src="https://badges.parchment.com/public/assertions/llApMASaSzS_RxCK9ip4EQ/image" width="100" height="100" alt="Credential Badge">
-  </a>
-</div>
+The goal is to build practical skills through real-world scenarios while maintaining clear and reproducible documentation.
 
 ---
 
-### ⚠️ 𝚁𝚞𝚕𝚎𝚜 𝙾𝚏 𝙴𝚗𝚐𝚊𝚐𝚎𝚖𝚎𝚗𝚝
+## 📂 Repository Contents
 
-All contents are strictly for educational purposes and authorized auditing. This repository exists to understand vulnerabilities deeply in order to effectively secure modern digital infrastructure.
+This repository may include:
 
+- 🌐 Web application security labs (PortSwigger, OWASP Juice Shop, etc.)
+- 💻 Vulnerable machine write-ups (VulnHub, Hack The Box, TryHackMe)
+- 🐍 Python scripts and automation tools
+- 📝 Technical notes and methodologies
+- 🔍 Enumeration and privilege escalation techniques
+- ⚙️ Security research and experimentation
 
+---
+
+## 🎯 Objectives
+
+- Develop practical penetration testing skills
+- Improve enumeration and exploitation methodology
+- Build useful security automation scripts
+- Document findings in a structured and professional manner
+- Continuously expand offensive security knowledge
+
+---
+
+## ⚠️ Disclaimer
+
+All content in this repository is intended **solely for educational purposes and authorized security testing**.
+
+The techniques, tools, and scripts documented here should only be used in environments where you have explicit permission to perform security assessments. Unauthorized access to systems is illegal and unethical.
+
+---
+
+<div align="center">
+
+**Happy Hacking 👨‍💻**
+
+</div>
