@@ -32,7 +32,7 @@ I started with an Nmap scan to identify open ports and services running on the t
 nmap -sC -sV 192.168.56.102 --open
 ```
 
-![[01-nmap.png]]
+![Nmap scan results](Images/01-nmap.png)
 
 |Port|Service|
 |---|---|
@@ -49,7 +49,7 @@ Port 80 immediately stood out since it was hosting a web application, and the `h
 
 Opening the website showed what looked like a default Drupal page.
 
-![[02-drupal-homepage.png]]
+![Drupal homepage](Images/02-drupal-homepage.png)
 
 The page source didn't reveal anything interesting, so I decided to fingerprint the CMS more precisely using Droopescan.
 
@@ -57,7 +57,7 @@ The page source didn't reveal anything interesting, so I decided to fingerprint 
 droopescan scan drupal -u http://192.168.56.102
 ```
 
-![[03-droopescan.png]]
+![Droopescan results](Images/03-droopescan.png)
 ## Looking for Vulnerabilities
 
 Since the target was running an older Drupal version, I checked Exploit-DB for known vulnerabilities.
@@ -96,7 +96,7 @@ run
 
 The exploit succeeded and returned a Meterpreter session.
 
-![[04-meterpreter.png]]
+![Meterpreter session](Images/04-meterpreter.png)
 
 I then dropped to a shell and upgraded it to a proper interactive TTY.
 
@@ -125,7 +125,7 @@ Every good CMS needs a config file - and so do you.
 
 The hint pointed straight at a configuration file.
 
-![[05-flag1.png]]
+![Flag 1](Images/05-flag1.png)
 
 ---
 
@@ -139,7 +139,7 @@ cat sites/default/settings.php
 
 This gave me **Flag 2**, plus working MySQL credentials (`dbuser` / `R0ck3t`) for the `drupaldb` database.
 
-![[06-flag2-settingsphp.png]]
+![Flag 2 - settings.php](Images/06-flag2-settingsphp.png)
 
 ---
 
@@ -163,7 +163,7 @@ I cracked the `admin` hash using an online [hash cracker](https://hashes.com/en/
 
 This recovered the admin credentials: **`admin : 53cr3t`**. Logging into the Drupal admin dashboard with these credentials revealed **Flag 3**.
 
-![[07-flag3-drupal-dashboard.png]]
+![Flag 3 - Drupal dashboard](Images/07-flag3-drupal-dashboard.png)
 
 The hint was a fairly direct pointer: **PERMS** → special permissions (SUID/SGID bits), **FIND** → the `find` command.
 
@@ -177,7 +177,7 @@ Before jumping to escalation, I poked around the filesystem and found another hi
 cat /home/flag4/flag4.txt
 ```
 
-![[08-flag4.png]]
+![Flag 4](Images/08-flag4.png)
 
 Flag 3 had already told me what to look for, so I enumerated SUID binaries directly:
 
@@ -201,7 +201,7 @@ whoami
 root
 ```
 
-![[09-root-shell.png]]
+![Root shell](Images/09-root-shell.png)
 
 ---
 
@@ -214,7 +214,7 @@ cd /root
 cat thefinalflag.txt
 ```
 
-![[10-flag5-final-flag.png]]
+![Flag 5 - final flag](Images/10-flag5-final-flag.png)
 
 Machine complete.
 
