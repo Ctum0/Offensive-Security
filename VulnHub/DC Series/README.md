@@ -11,7 +11,7 @@ These machines focus on developing a structured penetration testing methodology,
 | Machine | Difficulty | Status | Write-up |
 | :------ | :--------: | :----: | :------: |
 | DC-1 | Beginner | ✅ Completed | [View](./DC%20-%201/) |
-| DC-2 | Beginner | ⏳ Planned | - |
+| DC-2 | Beginner | ✅ Completed | [View](./DC%20-%202%2F) |
 | DC-3 | Beginner | ⏳ Planned | - |
 | DC-4 | Beginner | ⏳ Planned | - |
 | DC-5 | Beginner | ⏳ Planned | - |
