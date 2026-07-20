@@ -8,17 +8,17 @@ These machines focus on developing a structured penetration testing methodology,
 
 ## Machines
 
-| Machine | Difficulty | Status | Write-up |
-| :------ | :--------: | :----: | :------: |
-| DC-1 | Beginner | ✅ Completed | [View](./DC%20-%201/) |
-| DC-2 | Beginner | ✅ Completed | [View](./DC%20-%202%2F) |
-| DC-3 | Beginner | ⏳ Planned | - |
-| DC-4 | Beginner | ⏳ Planned | - |
-| DC-5 | Beginner | ⏳ Planned | - |
-| DC-6 | Beginner | ⏳ Planned | - |
-| DC-7 | Beginner | ⏳ Planned | - |
-| DC-8 | Beginner | ⏳ Planned | - |
-| DC-9 | Beginner | ⏳ Planned | - |
+| Machine | Difficulty |   Status    |        Write-up         |
+| :------ | :--------: | :---------: | :---------------------: |
+| DC-1    |  Beginner  | ✅ Completed |  [View](./DC%20-%201/)  |
+| DC-2    |  Beginner  | ✅ Completed | [View](./DC%20-%202%2F) |
+| DC-3    |  Beginner  | ✅ Completed |  [View](DC%20-%203%2F)  |
+| DC-4    |  Beginner  |  ⏳ Planned  |            -            |
+| DC-5    |  Beginner  |  ⏳ Planned  |            -            |
+| DC-6    |  Beginner  |  ⏳ Planned  |            -            |
+| DC-7    |  Beginner  |  ⏳ Planned  |            -            |
+| DC-8    |  Beginner  |  ⏳ Planned  |            -            |
+| DC-9    |  Beginner  |  ⏳ Planned  |            -            |
 
 ---
 
