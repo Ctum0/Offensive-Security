@@ -219,7 +219,6 @@ sudo git branch --help config
 
 From inside the resulting pager, running:
 
-
 ```text
 !/bin/sh
 ```
