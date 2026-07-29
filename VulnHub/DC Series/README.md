@@ -13,10 +13,10 @@ These machines focus on developing a structured penetration testing methodology,
 | DC-1    |  Beginner  | ✅ Completed |  [View](./DC%20-%201/)  |
 | DC-2    |  Beginner  | ✅ Completed | [View](./DC%20-%202%2F) |
 | DC-3    |  Beginner  | ✅ Completed |  [View](DC%20-%203%2F)  |
-| DC-4    |  Beginner  |  ⏳ Planned  |            -            |
-| DC-5    |  Beginner  |  ⏳ Planned  |            -            |
-| DC-6    |  Beginner  |  ⏳ Planned  |            -            |
-| DC-7    |  Beginner  |  ⏳ Planned  |            -            |
+| DC-4    |  Beginner  |  ✅ Completed  |      [View](DC%20-%204%2F)     |
+| DC-5    |  Beginner  |  ✅ Completed  |      [View](DC%20-%205%2F)         |
+| DC-6    |  Beginner  |  ✅ Completed  |        [View](DC%20-%206%2F)         |
+| DC-7    |  Beginner  |  ✅ Completed  |     [View](DC%20-%207%2F)          |
 | DC-8    |  Beginner  |  ⏳ Planned  |            -            |
 | DC-9    |  Beginner  |  ⏳ Planned  |            -            |
 
